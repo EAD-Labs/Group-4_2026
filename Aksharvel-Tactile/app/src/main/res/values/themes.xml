@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.Aksharvel" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">#FFF9EE</item>
+    </style>
+</resources>
