@@ -127,6 +127,3 @@ This informal tryout should be distinguished from the structured school field st
 - Vedika Borse
 - Khushbu Sidar
 
----
-
-*Prepared for the ET 617 final project submission.*
